@@ -1,12 +1,6 @@
-sheriff_voting
+sun altar using lua code from sheriff_voting minetest mod
 ===========
 
-Mod for Minetest game. Allow players to vote for someone to gain additional powers in order to fight ewil.
+To turn whatever time of day it is to early morning just use a cobblestone on the sun altar and it will activate.
 
-"Voting table" block can be placed and configured with specified player name.
-Players can vote to promote or to demote. Candidate becomes "sheriff" when he collects enough votes.
-Sheriff is able to use several commands, depending on their vote count: /mute /unmute /jail /kicks
-Votes are cast "by IP" and assigned "by name". Players can vote for multiple sheriffs at the same time.
-
-To wote, players need to pay gold ingot. That requirement is 
-to make it harder for griefers to become sheriffs.
+The code is really messy, not cleaned up, but it works so if you are faster than me to clean it up we'll probably see this mod updated sooner than later...otherwise just enjoy the functionality! :)
